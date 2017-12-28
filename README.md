@@ -51,3 +51,5 @@ sijijijijiji
     <code> dfodskjfodkfodsf </code>
     
     [Google]: http://google.com/
+    
+    ![Alt text](/path/to/img.jpg)
